@@ -1,2 +1,6 @@
+server:
+  port: 3001
+
+
 config:
   info: master/config-test.yml v=3
