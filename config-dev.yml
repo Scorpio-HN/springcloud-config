@@ -2,4 +2,4 @@ server:
   port: 3001
 
 config:
-  info: master/config-dev/v=YUWEN
+  info: master/config-dev/v=MATH
