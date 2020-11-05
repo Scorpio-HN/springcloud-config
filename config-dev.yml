@@ -2,4 +2,4 @@ server:
   port: 3001
 
 config:
-  info: master/config-dev/v=gggggggg
+  info: master/config-dev/v=g9999
