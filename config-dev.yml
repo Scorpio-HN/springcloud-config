@@ -1,5 +1,5 @@
 server:
-  port: 3002
+  port: 6666
 
 config:
   info: master/config-dev/v=1
